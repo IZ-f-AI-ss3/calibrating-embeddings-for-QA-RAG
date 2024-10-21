@@ -4,4 +4,4 @@ Unfortunately, I won’t be sharing the data XD . The embeddings were generated 
 
 
 
-(Next steps : implemeneting random RAG, audio&video , VAE, VLLM's, categorization, FAISS )
+(Next steps : implementing random RAG, NUDGE, audio&video , VAE, VLLM's, categorization, FAISS )
